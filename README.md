@@ -1,7 +1,7 @@
 # tic-tac-toe
 This application uses react and firebase authentication database and realtime database to create a multiplayer game called tic tac toe.
 
-tenchologies used- React,Node.js,FireBase, Bootstrap
+tenchologies used- React,FireBase, Bootstrap
 
 RULES FOR TIC-TAC-TOE
 
